@@ -1,0 +1,28 @@
+name: 'Hire Stefan!'
+favicon: null
+layout_spectrum: 0.1890280065126717
+typography_spectrum: 0.07019036589190364
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.36360953748226166
+  lightness: 0.11315307347103953
+  saturation: 0.5802482105791569
+  rhythmicContrast: 0.866191785549745
+purpose: []
